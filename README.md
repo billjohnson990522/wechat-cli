@@ -93,6 +93,14 @@ wechat-cli init
 - `all_keys.json`
 - `monitor-groups.json`
 
+如果初始化时提示“未能自动检测到微信数据目录”，可以手动指定 `--db-dir`：
+
+```bash
+node ./bin/wechat-cli.js init --db-dir "/你的微信数据目录/db_storage"
+```
+
+在当前 macOS 版本下，首次初始化还可能遇到 `task_for_pid failed`、`Permission denied`、`codesign` 相关报错。这类报错不是命令写法问题，而是系统安全策略阻止了微信进程内存访问。遇到这种情况时，需要按照命令行输出提示，先处理微信的签名和权限，再重新执行初始化。
+
 ## 常用命令
 
 ### 1. 查看最近会话
@@ -194,6 +202,21 @@ node_modules/@canghe_ai/wechat-cli-darwin-arm64/bin/wechat-cli
 - 初始化得到的本地配置和密钥信息
 
 如果微信没有登录，或者初始化没有完成，命令可能无法返回消息数据。
+
+### 4. 新机器或新环境的首次初始化，可能需要手动处理 macOS 权限
+
+按当前仓库在全新 `HOME` 下的实际测试结果：
+
+- 直接执行 `init` 时，自动检测微信数据目录可能失败
+- 手动补 `--db-dir` 之后，仍可能因为 `task_for_pid` 和 `codesign` 权限限制导致初始化失败
+
+也就是说，对于“第一次使用、从未初始化过”的用户，最容易卡住的地方不是 `sessions` 或 `history`，而是 **初始化阶段**。如果你碰到这类问题，请直接参考命令行输出里的提示，先处理：
+
+- 微信数据目录定位
+- 微信应用重新签名
+- 必要时使用 `sudo` 重新执行初始化
+
+在初始化成功以后，`sessions`、`contacts`、`history` 这类查询命令通常就可以正常工作。
 
 ## 当前仓库包含的关键文件
 
