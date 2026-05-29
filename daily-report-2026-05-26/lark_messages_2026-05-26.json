@@ -1,0 +1,1939 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_5aaab1e2cf7c77ead4524de9fa13220d",
+        "chat_name": "内部培训【内部】",
+        "chat_type": "group",
+        "content": "@卞嘉懿_BJY 好的\n1 ：链接可以先发我\n2：具体时间看你安排",
+        "create_time": "2026-05-26 17:11",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_3e74d921deba9c6f47ee6732f2356791",
+            "key": "@_user_1",
+            "name": "卞嘉懿_BJY"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_5aaab1e2cf7c77ead4524de9fa13220d\u0026position=13",
+        "message_id": "om_x100b6e62721494b8b3bd90ad4b915b4",
+        "message_position": "13",
+        "msg_type": "text",
+        "reply_to": "om_x100b6e62799ad484b35a7f6b9f77534",
+        "sender": {
+          "id": "ou_f619d9068f2f8954b81c1d7c93f221ca",
+          "id_type": "open_id",
+          "name": "Zoe Fly",
+          "sender_type": "user",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": true
+      },
+      {
+        "chat_id": "oc_faa882fd5b781c0a186a264bc40182ad",
+        "content": "@卞嘉懿_BJY 我看下面的内容都有了呀",
+        "create_time": "2026-05-26 13:01",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_3e74d921deba9c6f47ee6732f2356791",
+            "key": "@_user_1",
+            "name": "卞嘉懿_BJY"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_faa882fd5b781c0a186a264bc40182ad\u0026position=324",
+        "message_id": "om_x100b6e66df8b20a4c33d2a842c08f71",
+        "message_position": "324",
+        "msg_type": "text",
+        "reply_to": "om_x100b6e66c13eb480b3c4101de5c6e53",
+        "sender": {
+          "id": "ou_3997de57b1c3401310b45a1191e6d03d",
+          "id_type": "open_id",
+          "name": "翁丽",
+          "sender_type": "user",
+          "tenant_key": "132cfbe4bf8fd75d"
+        },
+        "updated": true
+      },
+      {
+        "chat_id": "oc_feb6b58f357e30f45a18ec56f6923e4a",
+        "chat_partner": {
+          "open_id": "ou_1094396cf67a9f58daab40058acf1277"
+        },
+        "chat_type": "p2p",
+        "content": "群里回复一下",
+        "create_time": "2026-05-26 13:05",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_feb6b58f357e30f45a18ec56f6923e4a\u0026position=566",
+        "message_id": "om_x100b6e66eeaa04a0b30b62b31e63873",
+        "message_position": "566",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_1094396cf67a9f58daab40058acf1277",
+          "id_type": "open_id",
+          "name": "瑞如",
+          "sender_type": "user",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": true
+      },
+      {
+        "chat_id": "oc_faa882fd5b781c0a186a264bc40182ad",
+        "content": "需要多久呀？",
+        "create_time": "2026-05-26 13:02",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_faa882fd5b781c0a186a264bc40182ad\u0026position=327",
+        "message_id": "om_x100b6e66dbe41cacc2da70610cb2b68",
+        "message_position": "327",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_3997de57b1c3401310b45a1191e6d03d",
+          "id_type": "open_id",
+          "name": "翁丽",
+          "sender_type": "user",
+          "tenant_key": "132cfbe4bf8fd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_5aaab1e2cf7c77ead4524de9fa13220d",
+        "chat_name": "内部培训【内部】",
+        "chat_type": "group",
+        "content": "\u003cp\u003e@卞嘉懿_BJY 嘉懿，有两件事需要你的帮助\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003cp\u003e1-有没有咱们最新的  标准版路演h5  的路演回放会议链接\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003cp\u003e2-需要辛苦你安排个培训，讲解下Rag，Agent，一些接口的使用，以及这些在标品里如何使用（可以安排在周五）\u003c/p\u003e",
+        "create_time": "2026-05-26 17:01",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_3e74d921deba9c6f47ee6732f2356791",
+            "key": "@_user_1",
+            "name": "卞嘉懿_BJY"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_5aaab1e2cf7c77ead4524de9fa13220d\u0026position=8",
+        "message_id": "om_x100b6e625bfb18e4b2083c14e0c9eea",
+        "message_position": "8",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_f619d9068f2f8954b81c1d7c93f221ca",
+          "id_type": "open_id",
+          "name": "Zoe Fly",
+          "sender_type": "user",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": true
+      },
+      {
+        "chat_id": "oc_f07b3c2061da9092639d99210e164ca5",
+        "chat_partner": {
+          "open_id": "ou_0bc2d431e14ea5b9ca457a119de5ef83"
+        },
+        "chat_type": "p2p",
+        "content": "\u003ccard title=\"权限开通\"\u003e\n@ou_e067471859a8622b73e33b9ec848541b 给你开通了妙记 [曹总讲爱马仕](https://rcn8lanbpcjn.feishu.cn/minutes/obcnkw275tz7vxy2e93hs16c?from_source=permission_change) 的查看权限\n\u003c/card\u003e",
+        "create_time": "2026-05-26 13:35",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_f07b3c2061da9092639d99210e164ca5\u0026position=74",
+        "message_id": "om_x100b6e675d646ca0c373a4fa128d3ea",
+        "message_position": "74",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a0d9f8eba778d00e",
+          "id_type": "app_id",
+          "sender_type": "app",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_5aaab1e2cf7c77ead4524de9fa13220d",
+        "chat_name": "内部培训【内部】",
+        "chat_type": "group",
+        "content": "嘉懿，你不用申请那么多，找1-2个路演，渤岩将路演材料的就行了",
+        "create_time": "2026-05-26 17:08",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_5aaab1e2cf7c77ead4524de9fa13220d\u0026position=9",
+        "message_id": "om_x100b6e627ca998c4b3b6736317d3f84",
+        "message_position": "9",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_1094396cf67a9f58daab40058acf1277",
+          "id_type": "open_id",
+          "name": "瑞如",
+          "sender_type": "user",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_feb6b58f357e30f45a18ec56f6923e4a",
+        "chat_partner": {
+          "open_id": "ou_1094396cf67a9f58daab40058acf1277"
+        },
+        "chat_type": "p2p",
+        "content": "就是实际的",
+        "create_time": "2026-05-26 13:43",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_feb6b58f357e30f45a18ec56f6923e4a\u0026position=570",
+        "message_id": "om_x100b6e677e25ecacb34373018c72c86",
+        "message_position": "570",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_1094396cf67a9f58daab40058acf1277",
+          "id_type": "open_id",
+          "name": "瑞如",
+          "sender_type": "user",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_faa882fd5b781c0a186a264bc40182ad",
+        "content": "[双手合十][双手合十][双手合十]",
+        "create_time": "2026-05-26 13:06",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_faa882fd5b781c0a186a264bc40182ad\u0026position=329",
+        "message_id": "om_x100b6e66eb8b34acc431e09f6114645",
+        "message_position": "329",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_3997de57b1c3401310b45a1191e6d03d",
+          "id_type": "open_id",
+          "name": "翁丽",
+          "sender_type": "user",
+          "tenant_key": "132cfbe4bf8fd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_5aaab1e2cf7c77ead4524de9fa13220d",
+        "chat_name": "内部培训【内部】",
+        "chat_type": "group",
+        "content": "@Zoe Fly https://rcn8lanbpcjn.feishu.cn/minutes/obcnq45ir7ol7c986b5kc238?from=from_copylink",
+        "create_time": "2026-05-26 17:13",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_f619d9068f2f8954b81c1d7c93f221ca",
+            "key": "@_user_1",
+            "name": "Zoe Fly"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_5aaab1e2cf7c77ead4524de9fa13220d\u0026position=14",
+        "message_id": "om_x100b6e620c17f8a4b20ff1dcd35acf3",
+        "message_position": "14",
+        "msg_type": "text",
+        "reply_to": "om_x100b6e62721494b8b3bd90ad4b915b4",
+        "sender": {
+          "id": "ou_3e74d921deba9c6f47ee6732f2356791",
+          "id_type": "open_id",
+          "name": "卞嘉懿_BJY",
+          "sender_type": "user",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": true
+      },
+      {
+        "chat_id": "oc_f07b3c2061da9092639d99210e164ca5",
+        "chat_partner": {
+          "open_id": "ou_0bc2d431e14ea5b9ca457a119de5ef83"
+        },
+        "chat_type": "p2p",
+        "content": "\u003ccard title=\"权限开通\"\u003e\n@ou_e067471859a8622b73e33b9ec848541b 给你开通了妙记 [张渤岩的视频会议](https://rcn8lanbpcjn.feishu.cn/minutes/obcnwkv8l2j5am86z584213l?from_source=permission_change) 的查看权限\n\u003c/card\u003e",
+        "create_time": "2026-05-26 13:35",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_f07b3c2061da9092639d99210e164ca5\u0026position=70",
+        "message_id": "om_x100b6e675def90a0c3b9156194e0903",
+        "message_position": "70",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a0d9f8eba778d00e",
+          "id_type": "app_id",
+          "sender_type": "app",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_f07b3c2061da9092639d99210e164ca5",
+        "chat_partner": {
+          "open_id": "ou_0bc2d431e14ea5b9ca457a119de5ef83"
+        },
+        "chat_type": "p2p",
+        "content": "\u003ccard title=\"权限开通\"\u003e\n@ou_e067471859a8622b73e33b9ec848541b 给你开通了妙记 [国药](https://rcn8lanbpcjn.feishu.cn/minutes/obcnxxzpi9egtl964yk5b7hu?from_source=permission_change) 的查看权限\n\u003c/card\u003e",
+        "create_time": "2026-05-26 13:35",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_f07b3c2061da9092639d99210e164ca5\u0026position=71",
+        "message_id": "om_x100b6e675d8e448cb257a21fb42562b",
+        "message_position": "71",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a0d9f8eba778d00e",
+          "id_type": "app_id",
+          "sender_type": "app",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_5aaab1e2cf7c77ead4524de9fa13220d",
+        "chat_name": "内部培训【内部】",
+        "chat_type": "group",
+        "content": "还没发",
+        "create_time": "2026-05-26 17:09",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_5aaab1e2cf7c77ead4524de9fa13220d\u0026position=11",
+        "message_id": "om_x100b6e627d2db4b8b30323f3a46c16b",
+        "message_position": "11",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_3e74d921deba9c6f47ee6732f2356791",
+          "id_type": "open_id",
+          "name": "卞嘉懿_BJY",
+          "sender_type": "user",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_feb6b58f357e30f45a18ec56f6923e4a",
+        "chat_partner": {
+          "open_id": "ou_1094396cf67a9f58daab40058acf1277"
+        },
+        "chat_type": "p2p",
+        "content": "\u003cp\u003ehttps://rcn8lanbpcjn.feishu.cn/wiki/Ycp3wQzbziPBvekzFElcqXACnph?from=auth_notice\u0026hash=5bab63ff001a65b12fff29c2b01225b3\u003c/p\u003e",
+        "create_time": "2026-05-26 16:04",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_feb6b58f357e30f45a18ec56f6923e4a\u0026position=573",
+        "message_id": "om_x100b6e610f313ca4c3c089be18d3938",
+        "message_position": "573",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_3e74d921deba9c6f47ee6732f2356791",
+          "id_type": "open_id",
+          "name": "卞嘉懿_BJY",
+          "sender_type": "user",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_349f04952d0047359b71b6acf9f7e093",
+        "chat_partner": {
+          "open_id": "ou_e0e665cce2ce16769c499c2a2f8ebb25"
+        },
+        "chat_type": "p2p",
+        "content": "哈喽，这两个是很典型的路演视频，你可以看看",
+        "create_time": "2026-05-26 17:20",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_349f04952d0047359b71b6acf9f7e093\u0026position=0",
+        "message_id": "om_x100b6e62138a750cb3b3407762d1e2a",
+        "message_position": "0",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_3e74d921deba9c6f47ee6732f2356791",
+          "id_type": "open_id",
+          "name": "卞嘉懿_BJY",
+          "sender_type": "user",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_349f04952d0047359b71b6acf9f7e093",
+        "chat_partner": {
+          "open_id": "ou_e0e665cce2ce16769c499c2a2f8ebb25"
+        },
+        "chat_type": "p2p",
+        "content": "https://rcn8lanbpcjn.feishu.cn/minutes/obcnma5gx9b584297zj34418?from=from_copylink",
+        "create_time": "2026-05-26 17:20",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_349f04952d0047359b71b6acf9f7e093\u0026position=1",
+        "message_id": "om_x100b6e6213635574b2cbadcca1be99e",
+        "message_position": "1",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_3e74d921deba9c6f47ee6732f2356791",
+          "id_type": "open_id",
+          "name": "卞嘉懿_BJY",
+          "sender_type": "user",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": true
+      },
+      {
+        "chat_id": "oc_faa882fd5b781c0a186a264bc40182ad",
+        "content": "剩下两篇报告也帮忙跑一下吧",
+        "create_time": "2026-05-26 13:02",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_faa882fd5b781c0a186a264bc40182ad\u0026position=326",
+        "message_id": "om_x100b6e66da58c8a4c3a2682f6c21000",
+        "message_position": "326",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_3997de57b1c3401310b45a1191e6d03d",
+          "id_type": "open_id",
+          "name": "翁丽",
+          "sender_type": "user",
+          "tenant_key": "132cfbe4bf8fd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_feb6b58f357e30f45a18ec56f6923e4a",
+        "chat_partner": {
+          "open_id": "ou_1094396cf67a9f58daab40058acf1277"
+        },
+        "chat_type": "p2p",
+        "content": "对",
+        "create_time": "2026-05-26 13:43",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_feb6b58f357e30f45a18ec56f6923e4a\u0026position=569",
+        "message_id": "om_x100b6e677e9ae4b0b3e26773191c13e",
+        "message_position": "569",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_1094396cf67a9f58daab40058acf1277",
+          "id_type": "open_id",
+          "name": "瑞如",
+          "sender_type": "user",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_faa882fd5b781c0a186a264bc40182ad",
+        "content": "https://rcn8lanbpcjn.feishu.cn/wiki/BOPXwa7kJistmCkHyJ0cveCqnXfhttps://rcn8lanbpcjn.feishu.cn/docx/YmaJdgJVko9UacxutLGcD1ionDc?from=from_copylink",
+        "create_time": "2026-05-26 13:33",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_faa882fd5b781c0a186a264bc40182ad\u0026position=330",
+        "message_id": "om_x100b6e6744544494b1294da2a80336f",
+        "message_position": "330",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_3e74d921deba9c6f47ee6732f2356791",
+          "id_type": "open_id",
+          "name": "卞嘉懿_BJY",
+          "sender_type": "user",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_faa882fd5b781c0a186a264bc40182ad",
+        "content": "@陈泉 稍等学亮@张学亮 发群里哈",
+        "create_time": "2026-05-26 15:25",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_ac95073248e272d515c8f10baeab5462",
+            "key": "@_user_1",
+            "name": "陈泉"
+          },
+          {
+            "id": "ou_fc6b36d7f1b5810a4acc2be40f464ab6",
+            "key": "@_user_2",
+            "name": "张学亮"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_faa882fd5b781c0a186a264bc40182ad\u0026position=333",
+        "message_id": "om_x100b6e60e1204cb8c429c977cf7d5c8",
+        "message_position": "333",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_45f89c08750d6b7362360ccdcbcf2217",
+          "id_type": "open_id",
+          "sender_type": "user",
+          "tenant_key": "132cfbe4bf8fd75d"
+        },
+        "updated": true
+      },
+      {
+        "chat_id": "oc_349f04952d0047359b71b6acf9f7e093",
+        "chat_partner": {
+          "open_id": "ou_e0e665cce2ce16769c499c2a2f8ebb25"
+        },
+        "chat_type": "p2p",
+        "content": "https://rcn8lanbpcjn.feishu.cn/minutes/obcnwf8g862w55412r7e343e?from=from_copylink",
+        "create_time": "2026-05-26 17:20",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_349f04952d0047359b71b6acf9f7e093\u0026position=2",
+        "message_id": "om_x100b6e62109a2168b29a5a534037810",
+        "message_position": "2",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_3e74d921deba9c6f47ee6732f2356791",
+          "id_type": "open_id",
+          "name": "卞嘉懿_BJY",
+          "sender_type": "user",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": true
+      },
+      {
+        "chat_id": "oc_f07b3c2061da9092639d99210e164ca5",
+        "chat_partner": {
+          "open_id": "ou_0bc2d431e14ea5b9ca457a119de5ef83"
+        },
+        "chat_type": "p2p",
+        "content": "\u003ccard title=\"权限开通\"\u003e\n@ou_15ae452da90d2524ff9bc928fa08ca87 给你开通了妙记 [中信建投（#腾讯会议：519-893-591）](https://rcn8lanbpcjn.feishu.cn/minutes/obcnwf8g862w55412r7e343e?from_source=permission_change) 的查看权限\n\u003c/card\u003e",
+        "create_time": "2026-05-26 16:50",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_f07b3c2061da9092639d99210e164ca5\u0026position=77",
+        "message_id": "om_x100b6e61a0a05890c33a88ad7db4202",
+        "message_position": "77",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a0d9f8eba778d00e",
+          "id_type": "app_id",
+          "sender_type": "app",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_feb6b58f357e30f45a18ec56f6923e4a",
+        "chat_partner": {
+          "open_id": "ou_1094396cf67a9f58daab40058acf1277"
+        },
+        "chat_type": "p2p",
+        "content": "之前rag的并发量18个/分钟的数据是有实际测算吗",
+        "create_time": "2026-05-26 13:35",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_feb6b58f357e30f45a18ec56f6923e4a\u0026position=568",
+        "message_id": "om_x100b6e675fa0648cb27460715e9270b",
+        "message_position": "568",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_3e74d921deba9c6f47ee6732f2356791",
+          "id_type": "open_id",
+          "name": "卞嘉懿_BJY",
+          "sender_type": "user",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_faa882fd5b781c0a186a264bc40182ad",
+        "content": "@翁丽 嗯嗯，其余的章节是昨天跑的。我的意思是刚把财务章节加上",
+        "create_time": "2026-05-26 13:01",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_3997de57b1c3401310b45a1191e6d03d",
+            "key": "@_user_1",
+            "name": "翁丽"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_faa882fd5b781c0a186a264bc40182ad\u0026position=325",
+        "message_id": "om_x100b6e66dd8c8cb4b1660e8ea12ad4e",
+        "message_position": "325",
+        "msg_type": "text",
+        "reply_to": "om_x100b6e66df8b20a4c33d2a842c08f71",
+        "sender": {
+          "id": "ou_3e74d921deba9c6f47ee6732f2356791",
+          "id_type": "open_id",
+          "name": "卞嘉懿_BJY",
+          "sender_type": "user",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": true
+      },
+      {
+        "chat_id": "oc_f07b3c2061da9092639d99210e164ca5",
+        "chat_partner": {
+          "open_id": "ou_0bc2d431e14ea5b9ca457a119de5ef83"
+        },
+        "chat_type": "p2p",
+        "content": "\u003ccard title=\"权限开通\"\u003e\n@ou_e067471859a8622b73e33b9ec848541b 给你开通了妙记 [ 招商基金#腾讯会议：662-644-921](https://rcn8lanbpcjn.feishu.cn/minutes/obcnshz9i95838ip3z3dq65y?from_source=permission_change) 的查看权限\n\u003c/card\u003e",
+        "create_time": "2026-05-26 13:35",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_f07b3c2061da9092639d99210e164ca5\u0026position=69",
+        "message_id": "om_x100b6e675c2e6884b3c1d2857306580",
+        "message_position": "69",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a0d9f8eba778d00e",
+          "id_type": "app_id",
+          "sender_type": "app",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_faa882fd5b781c0a186a264bc40182ad",
+        "content": "\u003cp\u003e下午18:00下班前可以\u003c/p\u003e",
+        "create_time": "2026-05-26 13:06",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_faa882fd5b781c0a186a264bc40182ad\u0026position=328",
+        "message_id": "om_x100b6e66eaf150b0b212515f599075f",
+        "message_position": "328",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_3e74d921deba9c6f47ee6732f2356791",
+          "id_type": "open_id",
+          "name": "卞嘉懿_BJY",
+          "sender_type": "user",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": true
+      },
+      {
+        "chat_id": "oc_36adf10fc599bef94ce675df817abca4",
+        "content": "https://kdf-jxzw.feishu.cn/docx/SdijdUmatoOaBRxih5ecnq85nQb已校对",
+        "create_time": "2026-05-26 16:07",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_36adf10fc599bef94ce675df817abca4\u0026position=143",
+        "message_id": "om_x100b6e610309c0a8b32547f2d7bb687",
+        "message_position": "143",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_56e54206583e20587b0305e49482bfae",
+          "id_type": "open_id",
+          "sender_type": "user",
+          "tenant_key": "174c9b0bc1c7175e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_10cce4779c77f32d36aa2d4ba5c96581",
+        "chat_partner": {
+          "open_id": "ou_301418962799b8ddd3f85c70a0bf905a"
+        },
+        "chat_type": "p2p",
+        "content": "\u003ccard title=\"文档权限维护提醒\"\u003e\nThe collaborators of your document [全球外资企业画像-蔡司zeiss-20260526](https://rcn8lanbpcjn.feishu.cn/docx/ImYZdegkVoBueJxRiZbcmeQSnPf) have exceeded 10. According to your department's \"promote information flow\" settings, the document will become searchable and accessible to all organization members **24 hours** after this notification.\nPermissions granted\n\u003c/card\u003e",
+        "create_time": "2026-05-26 13:33",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_10cce4779c77f32d36aa2d4ba5c96581\u0026position=7",
+        "message_id": "om_x100b6e6745c5f4a0b2cc49c5096d90e",
+        "message_position": "7",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a8d7b7736c70500e",
+          "id_type": "app_id",
+          "sender_type": "app",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": true
+      },
+      {
+        "chat_id": "oc_feb6b58f357e30f45a18ec56f6923e4a",
+        "chat_partner": {
+          "open_id": "ou_1094396cf67a9f58daab40058acf1277"
+        },
+        "chat_type": "p2p",
+        "content": "你早上申请的路演权限是都给了吗？",
+        "create_time": "2026-05-26 15:53",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_feb6b58f357e30f45a18ec56f6923e4a\u0026position=571",
+        "message_id": "om_x100b6e61586a091cb28797cc4ab6cda",
+        "message_position": "571",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_1094396cf67a9f58daab40058acf1277",
+          "id_type": "open_id",
+          "name": "瑞如",
+          "sender_type": "user",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_faa882fd5b781c0a186a264bc40182ad",
+        "content": "@陈泉 请查收",
+        "create_time": "2026-05-26 15:29",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_ac95073248e272d515c8f10baeab5462",
+            "key": "@_user_1",
+            "name": "陈泉"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_faa882fd5b781c0a186a264bc40182ad\u0026position=335",
+        "message_id": "om_x100b6e60f2b184b8b32b10fd7c0628a",
+        "message_position": "335",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_fc6b36d7f1b5810a4acc2be40f464ab6",
+          "id_type": "open_id",
+          "name": "张学亮",
+          "sender_type": "user",
+          "tenant_key": "132cfbe4bf8fd75d"
+        },
+        "updated": true
+      },
+      {
+        "chat_id": "oc_83d08b5ef758aba609dd627c2e7f0fab",
+        "chat_partner": {
+          "open_id": "ou_2ca9fc09eb7c37a616341608232904e8"
+        },
+        "chat_type": "p2p",
+        "content": "\u003ccard title=\"权限变更（外部）\"\u003e\n外部用户 @7098606992509370372 给外部群“行研日报项目组”的成员开通了文档 [全球外资企业画像-波士顿科学bostonscientific-20260525](https://rcn8lanbpcjn.feishu.cn/docx/YmaJdgJVko9UacxutLGcD1ionDc?from=auth_notice) 的阅读权限。\n📝 授权对象为外部群，可分享此文档的用户均可添加外部协作者和查看协作者列表，请注意信息安全。\n\u003c/card\u003e",
+        "create_time": "2026-05-26 13:34",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_83d08b5ef758aba609dd627c2e7f0fab\u0026position=55",
+        "message_id": "om_x100b6e67434aa4bcc3aecf8a1db2202",
+        "message_position": "55",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a0c2cea3eef8100d",
+          "id_type": "app_id",
+          "sender_type": "app",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_feb6b58f357e30f45a18ec56f6923e4a",
+        "chat_partner": {
+          "open_id": "ou_1094396cf67a9f58daab40058acf1277"
+        },
+        "chat_type": "p2p",
+        "content": "你得看一下，选1-2个合适的就好",
+        "create_time": "2026-05-26 15:53",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_feb6b58f357e30f45a18ec56f6923e4a\u0026position=572",
+        "message_id": "om_x100b6e61592618bcb2fc3fd8c5c43fe",
+        "message_position": "572",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_1094396cf67a9f58daab40058acf1277",
+          "id_type": "open_id",
+          "name": "瑞如",
+          "sender_type": "user",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_305d7f5c6074757b1c539ac1b02913e0",
+        "chat_name": "售前支持-材料【内部】",
+        "chat_type": "group",
+        "content": "@张渤岩 @瑞如 我分享了两个路演视频给@王茹 ，到时候他申请权限了，你们通过一下",
+        "create_time": "2026-05-26 17:22",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_aeaf59f30a2fc46eef5d48222b9b019c",
+            "key": "@_user_1",
+            "name": "张渤岩"
+          },
+          {
+            "id": "ou_1094396cf67a9f58daab40058acf1277",
+            "key": "@_user_2",
+            "name": "瑞如"
+          },
+          {
+            "id": "ou_e0e665cce2ce16769c499c2a2f8ebb25",
+            "key": "@_user_3",
+            "name": "王茹"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_305d7f5c6074757b1c539ac1b02913e0\u0026position=402",
+        "message_id": "om_x100b6e622bad40b0b2edd74d6d95f81",
+        "message_position": "402",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_3e74d921deba9c6f47ee6732f2356791",
+          "id_type": "open_id",
+          "name": "卞嘉懿_BJY",
+          "sender_type": "user",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": true
+      },
+      {
+        "chat_id": "oc_faa882fd5b781c0a186a264bc40182ad",
+        "content": "@翁丽 刚跑完财务章节",
+        "create_time": "2026-05-26 13:00",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_3997de57b1c3401310b45a1191e6d03d",
+            "key": "@_user_1",
+            "name": "翁丽"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_faa882fd5b781c0a186a264bc40182ad\u0026position=323",
+        "message_id": "om_x100b6e66c13eb480b3c4101de5c6e53",
+        "message_position": "323",
+        "msg_type": "text",
+        "reply_to": "om_x100b6e66211fecbcb34b3fdb032ba41",
+        "sender": {
+          "id": "ou_3e74d921deba9c6f47ee6732f2356791",
+          "id_type": "open_id",
+          "name": "卞嘉懿_BJY",
+          "sender_type": "user",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": true
+      },
+      {
+        "chat_id": "oc_5aaab1e2cf7c77ead4524de9fa13220d",
+        "chat_name": "内部培训【内部】",
+        "chat_type": "group",
+        "content": "@Zoe Fly 1：有，但是没有从头到尾全部讲一遍，讲了其中的一部分\n2: 好的",
+        "create_time": "2026-05-26 17:10",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_f619d9068f2f8954b81c1d7c93f221ca",
+            "key": "@_user_1",
+            "name": "Zoe Fly"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_5aaab1e2cf7c77ead4524de9fa13220d\u0026position=12",
+        "message_id": "om_x100b6e62799ad484b35a7f6b9f77534",
+        "message_position": "12",
+        "msg_type": "text",
+        "reply_to": "om_x100b6e625bfb18e4b2083c14e0c9eea",
+        "sender": {
+          "id": "ou_3e74d921deba9c6f47ee6732f2356791",
+          "id_type": "open_id",
+          "name": "卞嘉懿_BJY",
+          "sender_type": "user",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": true
+      },
+      {
+        "chat_id": "oc_305d7f5c6074757b1c539ac1b02913e0",
+        "chat_name": "售前支持-材料【内部】",
+        "chat_type": "group",
+        "content": "\u003cp\u003ehttps://rcn8lanbpcjn.feishu.cn/minutes/obcnma5gx9b584297zj34418?from=from_copylink\u003c/p\u003e\u003cp\u003ehttps://rcn8lanbpcjn.feishu.cn/minutes/obcnwf8g862w55412r7e343e?from=from_copylink\u003c/p\u003e",
+        "create_time": "2026-05-26 17:22",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_305d7f5c6074757b1c539ac1b02913e0\u0026position=403",
+        "message_id": "om_x100b6e622b1b74acb142e51e2b503cd",
+        "message_position": "403",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_3e74d921deba9c6f47ee6732f2356791",
+          "id_type": "open_id",
+          "name": "卞嘉懿_BJY",
+          "sender_type": "user",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": true
+      },
+      {
+        "chat_id": "oc_f07b3c2061da9092639d99210e164ca5",
+        "chat_partner": {
+          "open_id": "ou_0bc2d431e14ea5b9ca457a119de5ef83"
+        },
+        "chat_type": "p2p",
+        "content": "\u003ccard title=\"权限开通\"\u003e\n@ou_e067471859a8622b73e33b9ec848541b 给你开通了妙记 [汇生0428](https://rcn8lanbpcjn.feishu.cn/minutes/obcnba758i6711o47ck4ix8g?from_source=permission_change) 的查看权限\n\u003c/card\u003e",
+        "create_time": "2026-05-26 13:35",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_f07b3c2061da9092639d99210e164ca5\u0026position=72",
+        "message_id": "om_x100b6e675dbd2880c22190584b90258",
+        "message_position": "72",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a0d9f8eba778d00e",
+          "id_type": "app_id",
+          "sender_type": "app",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_83d08b5ef758aba609dd627c2e7f0fab",
+        "chat_partner": {
+          "open_id": "ou_2ca9fc09eb7c37a616341608232904e8"
+        },
+        "chat_type": "p2p",
+        "content": "\u003ccard title=\"权限变更（外部）\"\u003e\n外部用户 @7098606992509370372 给外部群“行研日报项目组”的成员开通了文档 [全球外资企业画像-蔡司zeiss-20260526](https://rcn8lanbpcjn.feishu.cn/wiki/BOPXwa7kJistmCkHyJ0cveCqnXf?from=auth_notice) 的阅读权限。\n📝 授权对象为外部群，可分享此文档的用户均可添加外部协作者和查看协作者列表，请注意信息安全。\n\u003c/card\u003e",
+        "create_time": "2026-05-26 13:34",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_83d08b5ef758aba609dd627c2e7f0fab\u0026position=56",
+        "message_id": "om_x100b6e6743479c8cb283288e5d3f54c",
+        "message_position": "56",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a0c2cea3eef8100d",
+          "id_type": "app_id",
+          "sender_type": "app",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_faa882fd5b781c0a186a264bc40182ad",
+        "content": "\u003cfolder key=\"file_v3_01122_41a60dba-aa87-4cee-b0d0-df89df6b1e1g\" name=\"切图5.26\"/\u003e",
+        "create_time": "2026-05-26 15:28",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_faa882fd5b781c0a186a264bc40182ad\u0026position=334",
+        "message_id": "om_x100b6e60f43714bcb4ac0e09590a522",
+        "message_position": "334",
+        "msg_type": "folder",
+        "sender": {
+          "id": "ou_fc6b36d7f1b5810a4acc2be40f464ab6",
+          "id_type": "open_id",
+          "name": "张学亮",
+          "sender_type": "user",
+          "tenant_key": "132cfbe4bf8fd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_feb6b58f357e30f45a18ec56f6923e4a",
+        "chat_partner": {
+          "open_id": "ou_1094396cf67a9f58daab40058acf1277"
+        },
+        "chat_type": "p2p",
+        "content": "不用检查了，生成的就好就发",
+        "create_time": "2026-05-26 13:12",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_feb6b58f357e30f45a18ec56f6923e4a\u0026position=567",
+        "message_id": "om_x100b6e66f56e28bcb3efc426abb3647",
+        "message_position": "567",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_1094396cf67a9f58daab40058acf1277",
+          "id_type": "open_id",
+          "name": "瑞如",
+          "sender_type": "user",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_60419c2178420f1cf80c695b89fa3888",
+        "chat_partner": {
+          "open_id": "ou_c4cd544da5d83af64664f94c49377a48"
+        },
+        "chat_type": "p2p",
+        "content": "比如只针对^国泰海通|^天风证券|^国信证券|^华泰证券|^兴业证券|^中信建投|^申万宏源|^国联民生|^浙商证券|^招商证券|^东吴证券这些机构的研报进行问答并发测试",
+        "create_time": "2026-05-26 17:12",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_60419c2178420f1cf80c695b89fa3888\u0026position=35",
+        "message_id": "om_x100b6e6271bbf148b26226de80f590b",
+        "message_position": "35",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_3e74d921deba9c6f47ee6732f2356791",
+          "id_type": "open_id",
+          "name": "卞嘉懿_BJY",
+          "sender_type": "user",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": true
+      },
+      {
+        "chat_id": "oc_5aaab1e2cf7c77ead4524de9fa13220d",
+        "chat_name": "内部培训【内部】",
+        "chat_type": "group",
+        "content": "你还没发给新销售吧",
+        "create_time": "2026-05-26 17:09",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_5aaab1e2cf7c77ead4524de9fa13220d\u0026position=10",
+        "message_id": "om_x100b6e627de980a4b2fc9acaaff350b",
+        "message_position": "10",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_1094396cf67a9f58daab40058acf1277",
+          "id_type": "open_id",
+          "name": "瑞如",
+          "sender_type": "user",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_60419c2178420f1cf80c695b89fa3888",
+        "chat_partner": {
+          "open_id": "ou_c4cd544da5d83af64664f94c49377a48"
+        },
+        "chat_type": "p2p",
+        "content": "\u003cp\u003e泽文，国信想测试研报问答的并发能力，但是是在指定券商机构的情况下去测，能实现吗\u003c/p\u003e",
+        "create_time": "2026-05-26 17:11",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_60419c2178420f1cf80c695b89fa3888\u0026position=34",
+        "message_id": "om_x100b6e6275453c80b1175f543f91abf",
+        "message_position": "34",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_3e74d921deba9c6f47ee6732f2356791",
+          "id_type": "open_id",
+          "name": "卞嘉懿_BJY",
+          "sender_type": "user",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": true
+      },
+      {
+        "chat_id": "oc_faa882fd5b781c0a186a264bc40182ad",
+        "content": "这么给力嘛[灵光一闪]",
+        "create_time": "2026-05-26 13:34",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_faa882fd5b781c0a186a264bc40182ad\u0026position=331",
+        "message_id": "om_x100b6e67423c5488c34848b876dcd01",
+        "message_position": "331",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_3997de57b1c3401310b45a1191e6d03d",
+          "id_type": "open_id",
+          "name": "翁丽",
+          "sender_type": "user",
+          "tenant_key": "132cfbe4bf8fd75d"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_305d7f5c6074757b1c539ac1b02913e0",
+        "chat_name": "售前支持-材料【内部】",
+        "chat_type": "group",
+        "content": "[OK]",
+        "create_time": "2026-05-26 17:22",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_305d7f5c6074757b1c539ac1b02913e0\u0026position=404",
+        "message_id": "om_x100b6e62289db8f0b210fc0fef833fc",
+        "message_position": "404",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_aeaf59f30a2fc46eef5d48222b9b019c",
+          "id_type": "open_id",
+          "name": "张渤岩",
+          "sender_type": "user",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_f07b3c2061da9092639d99210e164ca5",
+        "chat_partner": {
+          "open_id": "ou_0bc2d431e14ea5b9ca457a119de5ef83"
+        },
+        "chat_type": "p2p",
+        "content": "\u003ccard title=\"权限开通\"\u003e\n@ou_e067471859a8622b73e33b9ec848541b 给你开通了妙记 [0507浙商证券](https://rcn8lanbpcjn.feishu.cn/minutes/obcnhd732q65i28ms17p4e5d?from_source=permission_change) 的查看权限\n\u003c/card\u003e",
+        "create_time": "2026-05-26 13:35",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_f07b3c2061da9092639d99210e164ca5\u0026position=73",
+        "message_id": "om_x100b6e675d4300b0b2f43c779f00ed2",
+        "message_position": "73",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a0d9f8eba778d00e",
+          "id_type": "app_id",
+          "sender_type": "app",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_10cce4779c77f32d36aa2d4ba5c96581",
+        "chat_partner": {
+          "open_id": "ou_301418962799b8ddd3f85c70a0bf905a"
+        },
+        "chat_type": "p2p",
+        "content": "\u003ccard title=\"文档权限维护提醒\"\u003e\nThe collaborators of your document [全球外资企业画像-波士顿科学bostonscientific-20260525](https://rcn8lanbpcjn.feishu.cn/docx/YmaJdgJVko9UacxutLGcD1ionDc) have exceeded 10. According to your department's \"promote information flow\" settings, the document will become searchable and accessible to all organization members **24 hours** after this notification.\nPermissions granted\n\u003c/card\u003e",
+        "create_time": "2026-05-26 13:33",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_10cce4779c77f32d36aa2d4ba5c96581\u0026position=6",
+        "message_id": "om_x100b6e6745c910b4c292d79b417bf9e",
+        "message_position": "6",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a8d7b7736c70500e",
+          "id_type": "app_id",
+          "sender_type": "app",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": true
+      },
+      {
+        "chat_id": "oc_f07b3c2061da9092639d99210e164ca5",
+        "chat_partner": {
+          "open_id": "ou_0bc2d431e14ea5b9ca457a119de5ef83"
+        },
+        "chat_type": "p2p",
+        "content": "\u003ccard title=\"权限开通\"\u003e\n@ou_e067471859a8622b73e33b9ec848541b 给你开通了妙记 [0514东吴证券](https://rcn8lanbpcjn.feishu.cn/minutes/obcnma5gx9b584297zj34418?from_source=permission_change) 的查看权限\n\u003c/card\u003e",
+        "create_time": "2026-05-26 13:35",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_f07b3c2061da9092639d99210e164ca5\u0026position=75",
+        "message_id": "om_x100b6e675d7570a4c3bae530b657a45",
+        "message_position": "75",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a0d9f8eba778d00e",
+          "id_type": "app_id",
+          "sender_type": "app",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_f07b3c2061da9092639d99210e164ca5",
+        "chat_partner": {
+          "open_id": "ou_0bc2d431e14ea5b9ca457a119de5ef83"
+        },
+        "chat_type": "p2p",
+        "content": "\u003ccard title=\"权限开通\"\u003e\n@ou_e067471859a8622b73e33b9ec848541b 给你开通了妙记 [0521中信](https://rcn8lanbpcjn.feishu.cn/minutes/obcnq4f3q44q6cn199x9i8hx?from_source=permission_change) 的查看权限\n\u003c/card\u003e",
+        "create_time": "2026-05-26 13:35",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_f07b3c2061da9092639d99210e164ca5\u0026position=76",
+        "message_id": "om_x100b6e675d0620acc2380dfc1d19363",
+        "message_position": "76",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a0d9f8eba778d00e",
+          "id_type": "app_id",
+          "sender_type": "app",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_f07b3c2061da9092639d99210e164ca5",
+        "chat_partner": {
+          "open_id": "ou_0bc2d431e14ea5b9ca457a119de5ef83"
+        },
+        "chat_type": "p2p",
+        "content": "\u003ccard title=\"权限开通\"\u003e\n@ou_e067471859a8622b73e33b9ec848541b 给你开通了妙记 [长城证券](https://rcn8lanbpcjn.feishu.cn/minutes/obcnxyra5vsq9922dpcf4lji?from_source=permission_change) 的查看权限\n\u003c/card\u003e",
+        "create_time": "2026-05-26 17:18",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_f07b3c2061da9092639d99210e164ca5\u0026position=78",
+        "message_id": "om_x100b6e621a09d4a0c28952d9a94185b",
+        "message_position": "78",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a0d9f8eba778d00e",
+          "id_type": "app_id",
+          "sender_type": "app",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_faa882fd5b781c0a186a264bc40182ad",
+        "content": "@卞嘉懿_BJY 老师这俩公司的财务数据和公司名已更新\n[Image: img_v3_02122_8901bb15-6b2b-4aa3-9f7d-f5f3af543cag]\n[Image: img_v3_02122_cfdcdb11-af91-4d96-ad76-0e342aa645ag]",
+        "create_time": "2026-05-26 10:39",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_3e74d921deba9c6f47ee6732f2356791",
+            "key": "@_user_1",
+            "name": "卞嘉懿_BJY"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_faa882fd5b781c0a186a264bc40182ad\u0026position=316",
+        "message_id": "om_x100b6e64309a449cb142a154c17a3bc",
+        "message_position": "316",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_7e1d63dd2eea6beda8576edb4445d9e3",
+          "id_type": "open_id",
+          "name": "徐士强",
+          "sender_type": "user",
+          "tenant_key": "132cfbe4bf8fd75d"
+        },
+        "updated": true
+      },
+      {
+        "chat_id": "oc_f07b3c2061da9092639d99210e164ca5",
+        "chat_partner": {
+          "open_id": "ou_0bc2d431e14ea5b9ca457a119de5ef83"
+        },
+        "chat_type": "p2p",
+        "content": "\u003ccard title=\"权限开通\"\u003e\n@ou_e7b0a11d65d004746b7e50a892aa4584 给你开通了妙记 [长信路演](https://kdfuture.feishu.cn/minutes/obcnh8a3972en97c1dy447zp?from_source=permission_change) 的查看权限\n\u003c/card\u003e",
+        "create_time": "2026-05-26 11:43",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_f07b3c2061da9092639d99210e164ca5\u0026position=65",
+        "message_id": "om_x100b6e652371cc84b349c8bb6e6a31f",
+        "message_position": "65",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a0d9f8eba778d00e",
+          "id_type": "app_id",
+          "sender_type": "app",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_5aaab1e2cf7c77ead4524de9fa13220d",
+        "chat_name": "内部培训【内部】",
+        "chat_type": "group",
+        "content": "[Image: img_v3_02122_fce4fc1e-3eab-4151-a397-0fbf9315c81g]\n你发的吗@卞嘉懿_BJY",
+        "create_time": "2026-05-26 10:20",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_3e74d921deba9c6f47ee6732f2356791",
+            "key": "@_user_1",
+            "name": "卞嘉懿_BJY"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_5aaab1e2cf7c77ead4524de9fa13220d\u0026position=4",
+        "message_id": "om_x100b6e64766730b8b14d45baf735705",
+        "message_position": "4",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_1094396cf67a9f58daab40058acf1277",
+          "id_type": "open_id",
+          "name": "瑞如",
+          "sender_type": "user",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": true
+      },
+      {
+        "chat_id": "oc_f07b3c2061da9092639d99210e164ca5",
+        "chat_partner": {
+          "open_id": "ou_0bc2d431e14ea5b9ca457a119de5ef83"
+        },
+        "chat_type": "p2p",
+        "content": "\u003ccard title=\"权限开通\"\u003e\n@ou_5da003219fa6e167352c048210d0e04c 给你开通了妙记 [15:29-59:04 | 平安证券 录制](https://rcn8lanbpcjn.feishu.cn/minutes/obcnxxe8tnj27guy82dn86lc?from_source=permission_change) 的查看权限\n\u003c/card\u003e",
+        "create_time": "2026-05-26 11:23",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_f07b3c2061da9092639d99210e164ca5\u0026position=56",
+        "message_id": "om_x100b6e656f0c98acb4a32a75c8e715a",
+        "message_position": "56",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a0d9f8eba778d00e",
+          "id_type": "app_id",
+          "sender_type": "app",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_f07b3c2061da9092639d99210e164ca5",
+        "chat_partner": {
+          "open_id": "ou_0bc2d431e14ea5b9ca457a119de5ef83"
+        },
+        "chat_type": "p2p",
+        "content": "\u003ccard title=\"权限开通\"\u003e\n@ou_e7b0a11d65d004746b7e50a892aa4584 给你开通了妙记 [张渤岩的视频会议](https://kdfuture.feishu.cn/minutes/obcnnjg63h6gm697j2b3r3mr?from_source=permission_change) 的查看权限\n\u003c/card\u003e",
+        "create_time": "2026-05-26 11:43",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_f07b3c2061da9092639d99210e164ca5\u0026position=67",
+        "message_id": "om_x100b6e652313a4b4b256008107a8b75",
+        "message_position": "67",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a0d9f8eba778d00e",
+          "id_type": "app_id",
+          "sender_type": "app",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_f07b3c2061da9092639d99210e164ca5",
+        "chat_partner": {
+          "open_id": "ou_0bc2d431e14ea5b9ca457a119de5ef83"
+        },
+        "chat_type": "p2p",
+        "content": "\u003ccard title=\"权限开通\"\u003e\n@ou_e7b0a11d65d004746b7e50a892aa4584 给你开通了妙记 [建行2次会议](https://kdfuture.feishu.cn/minutes/obcn9b34rf3r92h12une2d75?from_source=permission_change) 的查看权限\n\u003c/card\u003e",
+        "create_time": "2026-05-26 11:43",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_f07b3c2061da9092639d99210e164ca5\u0026position=59",
+        "message_id": "om_x100b6e6523c7757cb1682565126a7a3",
+        "message_position": "59",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a0d9f8eba778d00e",
+          "id_type": "app_id",
+          "sender_type": "app",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_5aaab1e2cf7c77ead4524de9fa13220d",
+        "chat_name": "内部培训【内部】",
+        "chat_type": "group",
+        "content": "先不用给报价",
+        "create_time": "2026-05-26 10:21",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_5aaab1e2cf7c77ead4524de9fa13220d\u0026position=5",
+        "message_id": "om_x100b6e6477c2e89cb2434c06f7ec489",
+        "message_position": "5",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_1094396cf67a9f58daab40058acf1277",
+          "id_type": "open_id",
+          "name": "瑞如",
+          "sender_type": "user",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_feb6b58f357e30f45a18ec56f6923e4a",
+        "chat_partner": {
+          "open_id": "ou_1094396cf67a9f58daab40058acf1277"
+        },
+        "chat_type": "p2p",
+        "content": "中信证券：https://rcn8lanbpcjn.feishu.cn/sheets/LxWLsLRzVhtbzUt5jUAcKYeFnJc?from=from_copylink\n建设银行：https://rcn8lanbpcjn.feishu.cn/sheets/AY2UsruUChSMVOte5j3c5X3Nn4g?from=from_copylink\n华夏基金：https://kdfuture.feishu.cn/sheets/RK3hsjEsFhh1Vxtjnmoc4Vk1nGw?from=from_copylink\n九点智投：https://rcn8lanbpcjn.feishu.cn/wiki/KQXvwaTAWi3iR9kEtkPcNRPRnib?from=from_copylink\n中金资本：https://kdfuture.feishu.cn/sheets/GnrcsYmmYh0iRstszuRcXdoonFe?from=from_copylink\n国泰基金：https://kdfuture.feishu.cn/sheets/W36isTobthqGaft19tFc1DXPnxg?from=from_copylink\n格林基金：https://rcn8lanbpcjn.feishu.cn/sheets/R1QtsbK9hhpZfWttKKUcPNLPnuh?from=from_copylink\n国金证券：https://rcn8lanbpcjn.feishu.cn/sheets/SU9bsJ5awhnYQ4tiN9tcZX0ZnMb?from=from_copylink\n建设银行：https://kdfuture.feishu.cn/sheets/FZXGsdNbhhURUUtfKcucn4tMnib?from=from_copylink\n国信证券：https://rcn8lanbpcjn.feishu.cn/sheets/Zl6Msf5l9hg03HtOJ8Ocw1hLn3e\n中银证券：https://kdfuture.feishu.cn/file/AftnbUJf2oEqZ5x5BLMcG1J6n8d?from=from_copylink\n中信证券：https://kdfuture.feishu.cn/file/F4LAbmoqqoxo4lxklpmcg2nPnwg?from=from_copylink\n上汽金控：https://rcn8lanbpcjn.feishu.cn/sheets/OAiQsTbLohOfsttUP7IcAPl9nte?from=from_copylink\n招商证券：https://rcn8lanbpcjn.feishu.cn/sheets/AvuusounchD4a9tV1NccwCCxn8b?from=from_copylink\n长信基金：https://rcn8lanbpcjn.feishu.cn/sheets/LcbIsYeXEheqLDtIZUucoFDSnCf?from=from_copylink\n平安证券：https://rcn8lanbpcjn.feishu.cn/sheets/XgNTsy4jqhmIomt1mexcNGGznCh?from=from_copylink",
+        "create_time": "2026-05-26 10:39",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_feb6b58f357e30f45a18ec56f6923e4a\u0026position=561",
+        "message_id": "om_x100b6e64307f48bcc425418afae88fb",
+        "message_position": "561",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_3e74d921deba9c6f47ee6732f2356791",
+          "id_type": "open_id",
+          "name": "卞嘉懿_BJY",
+          "sender_type": "user",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_f07b3c2061da9092639d99210e164ca5",
+        "chat_partner": {
+          "open_id": "ou_0bc2d431e14ea5b9ca457a119de5ef83"
+        },
+        "chat_type": "p2p",
+        "content": "\u003ccard title=\"权限开通\"\u003e\n@ou_e7b0a11d65d004746b7e50a892aa4584 给你开通了妙记 [中信-用户画像推荐20260317](https://kdfuture.feishu.cn/minutes/obcnhd5o54bd9y3lcl358x27?from_source=permission_change) 的查看权限\n\u003c/card\u003e",
+        "create_time": "2026-05-26 11:43",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_f07b3c2061da9092639d99210e164ca5\u0026position=64",
+        "message_id": "om_x100b6e65236680a4c34f78e326f90f1",
+        "message_position": "64",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a0d9f8eba778d00e",
+          "id_type": "app_id",
+          "sender_type": "app",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_5aaab1e2cf7c77ead4524de9fa13220d",
+        "chat_name": "内部培训【内部】",
+        "chat_type": "group",
+        "content": "@卞嘉懿_BJY 之后你整理给飞飞，以后新人入职就看材料，飞飞你看看嘉懿给的路演视频，有没有看着很慢，如果会需要整理一下文字版的简单介绍",
+        "create_time": "2026-05-26 10:09",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_3e74d921deba9c6f47ee6732f2356791",
+            "key": "@_user_1",
+            "name": "卞嘉懿_BJY"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_5aaab1e2cf7c77ead4524de9fa13220d\u0026position=3",
+        "message_id": "om_x100b6e64406bc8bcb3d4d8ed748d3b0",
+        "message_position": "3",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_1094396cf67a9f58daab40058acf1277",
+          "id_type": "open_id",
+          "name": "瑞如",
+          "sender_type": "user",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": true
+      },
+      {
+        "chat_id": "oc_faa882fd5b781c0a186a264bc40182ad",
+        "content": "@徐士强 收到",
+        "create_time": "2026-05-26 12:06",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_7e1d63dd2eea6beda8576edb4445d9e3",
+            "key": "@_user_1",
+            "name": "徐士强"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_faa882fd5b781c0a186a264bc40182ad\u0026position=319",
+        "message_id": "om_x100b6e658d660488b291c26163fb73c",
+        "message_position": "319",
+        "msg_type": "text",
+        "reply_to": "om_x100b6e65014fc0b4b328c74e278161e",
+        "sender": {
+          "id": "ou_3e74d921deba9c6f47ee6732f2356791",
+          "id_type": "open_id",
+          "name": "卞嘉懿_BJY",
+          "sender_type": "user",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": true
+      },
+      {
+        "chat_id": "oc_f07b3c2061da9092639d99210e164ca5",
+        "chat_partner": {
+          "open_id": "ou_0bc2d431e14ea5b9ca457a119de5ef83"
+        },
+        "chat_type": "p2p",
+        "content": "\u003ccard title=\"权限开通\"\u003e\n@ou_e7b0a11d65d004746b7e50a892aa4584 给你开通了妙记 [建行-中间人20260228](https://kdfuture.feishu.cn/minutes/obcn5s429i6liapx89vm7769?from_source=permission_change) 的查看权限\n\u003c/card\u003e",
+        "create_time": "2026-05-26 11:43",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_f07b3c2061da9092639d99210e164ca5\u0026position=57",
+        "message_id": "om_x100b6e6522271484c2a05478680e2e5",
+        "message_position": "57",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a0d9f8eba778d00e",
+          "id_type": "app_id",
+          "sender_type": "app",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_feb6b58f357e30f45a18ec56f6923e4a",
+        "chat_partner": {
+          "open_id": "ou_1094396cf67a9f58daab40058acf1277"
+        },
+        "chat_type": "p2p",
+        "content": "[Image: img_v3_02122_fa55150c-65a6-4e42-8f7a-de9fc07627eg]",
+        "create_time": "2026-05-26 12:56",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_feb6b58f357e30f45a18ec56f6923e4a\u0026position=564",
+        "message_id": "om_x100b6e66ce151d38b349f677494c911",
+        "message_position": "564",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_1094396cf67a9f58daab40058acf1277",
+          "id_type": "open_id",
+          "name": "瑞如",
+          "sender_type": "user",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": true
+      },
+      {
+        "chat_id": "oc_f07b3c2061da9092639d99210e164ca5",
+        "chat_partner": {
+          "open_id": "ou_0bc2d431e14ea5b9ca457a119de5ef83"
+        },
+        "chat_type": "p2p",
+        "content": "\u003ccard title=\"权限开通\"\u003e\n@ou_e7b0a11d65d004746b7e50a892aa4584 给你开通了妙记 [瑞如的视频会议](https://kdfuture.feishu.cn/minutes/obcnn8huknyg653s51ob7t3h?from_source=permission_change) 的查看权限\n\u003c/card\u003e",
+        "create_time": "2026-05-26 11:43",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_f07b3c2061da9092639d99210e164ca5\u0026position=68",
+        "message_id": "om_x100b6e65233f8cb4c4297e5c1b1f772",
+        "message_position": "68",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a0d9f8eba778d00e",
+          "id_type": "app_id",
+          "sender_type": "app",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_f07b3c2061da9092639d99210e164ca5",
+        "chat_partner": {
+          "open_id": "ou_0bc2d431e14ea5b9ca457a119de5ef83"
+        },
+        "chat_type": "p2p",
+        "content": "\u003ccard title=\"会议录制已完成\"\u003e\n主题：瑞 如的视频会议\n所有者：@ou_15ae452da90d2524ff9bc928fa08ca87\n日期：2026-05-26 10:25:37 GMT+8\n录制文件（妙记）: [瑞 如的视频会议](https://rcn8lanbpcjn.feishu.cn/minutes/obcnudg73xvncg1fg98kjn9q?from_source=finish_recording)\n[申请妙记权限]\n\u003c/card\u003e",
+        "create_time": "2026-05-26 10:48",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_f07b3c2061da9092639d99210e164ca5\u0026position=55",
+        "message_id": "om_x100b6e64d1621c94c39a8acdab64c5f",
+        "message_position": "55",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a0d9f8eba778d00e",
+          "id_type": "app_id",
+          "sender_type": "app",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_faa882fd5b781c0a186a264bc40182ad",
+        "content": "@卞嘉懿_BJY 报告咋样了",
+        "create_time": "2026-05-26 12:52",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_3e74d921deba9c6f47ee6732f2356791",
+            "key": "@_user_1",
+            "name": "卞嘉懿_BJY"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_faa882fd5b781c0a186a264bc40182ad\u0026position=320",
+        "message_id": "om_x100b6e66211fecbcb34b3fdb032ba41",
+        "message_position": "320",
+        "msg_type": "text",
+        "reply_to": "om_x100b6e658d660488b291c26163fb73c",
+        "sender": {
+          "id": "ou_3997de57b1c3401310b45a1191e6d03d",
+          "id_type": "open_id",
+          "name": "翁丽",
+          "sender_type": "user",
+          "tenant_key": "132cfbe4bf8fd75d"
+        },
+        "updated": true
+      },
+      {
+        "chat_id": "oc_f07b3c2061da9092639d99210e164ca5",
+        "chat_partner": {
+          "open_id": "ou_0bc2d431e14ea5b9ca457a119de5ef83"
+        },
+        "chat_type": "p2p",
+        "content": "https://rcn8lanbpcjn.feishu.cn/docx/OIVZdgT7XoUhb9xHRDYcxtnSnze?dcuId=7623233247601855456\u0026from=vc_assistant_notice#doxcnSpakOR9xQmdsk9RHgJvDtd",
+        "create_time": "2026-05-26 10:15",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_f07b3c2061da9092639d99210e164ca5\u0026position=54",
+        "message_id": "om_x100b6e646cac0cccc22e4aecf1e683f",
+        "message_position": "54",
+        "msg_type": "text",
+        "sender": {
+          "id": "cli_a0d9f8eba778d00e",
+          "id_type": "app_id",
+          "sender_type": "app",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_feb6b58f357e30f45a18ec56f6923e4a",
+        "chat_partner": {
+          "open_id": "ou_1094396cf67a9f58daab40058acf1277"
+        },
+        "chat_type": "p2p",
+        "content": "刚跑完财务章节，马上发",
+        "create_time": "2026-05-26 13:00",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_feb6b58f357e30f45a18ec56f6923e4a\u0026position=565",
+        "message_id": "om_x100b6e66c3bfa4a4b2f8257d62e1282",
+        "message_position": "565",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_3e74d921deba9c6f47ee6732f2356791",
+          "id_type": "open_id",
+          "name": "卞嘉懿_BJY",
+          "sender_type": "user",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_10cce4779c77f32d36aa2d4ba5c96581",
+        "chat_partner": {
+          "open_id": "ou_301418962799b8ddd3f85c70a0bf905a"
+        },
+        "chat_type": "p2p",
+        "content": "\u003ccard title=\"文档权限维护提醒\"\u003e\nThe collaborators of your document [【解决方案】研报精读 V2.1.0](https://rcn8lanbpcjn.feishu.cn/docx/BjRldss34oL9plxnZPFc87g2nDc) have exceeded 10. According to your department's \"promote information flow\" settings, the document will become searchable and accessible to all organization members **24 hours** after this notification.\nPermissions granted\n\u003c/card\u003e",
+        "create_time": "2026-05-26 00:10",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_10cce4779c77f32d36aa2d4ba5c96581\u0026position=5",
+        "message_id": "om_x100b6e7309f3d8a4c3a5bea09165e3a",
+        "message_position": "5",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a8d7b7736c70500e",
+          "id_type": "app_id",
+          "sender_type": "app",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": true
+      },
+      {
+        "chat_id": "oc_36adf10fc599bef94ce675df817abca4",
+        "content": "https://kdfuture.feishu.cn/docx/Rn95dNJ8LosetlxhoyvcmvBknDe已校对",
+        "create_time": "2026-05-26 04:41",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_36adf10fc599bef94ce675df817abca4\u0026position=142",
+        "message_id": "om_x100b6e7f0ed6f8a0b2e739ef01d8877",
+        "message_position": "142",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_d9c0afb3658812c1ef002e015a960ed0",
+          "id_type": "open_id",
+          "sender_type": "user",
+          "tenant_key": "1104efa6608c9758"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_f07b3c2061da9092639d99210e164ca5",
+        "chat_partner": {
+          "open_id": "ou_0bc2d431e14ea5b9ca457a119de5ef83"
+        },
+        "chat_type": "p2p",
+        "content": "\u003ccard title=\"权限开通\"\u003e\n@ou_e7b0a11d65d004746b7e50a892aa4584 给你开通了妙记 [张渤岩的视频会议](https://kdfuture.feishu.cn/minutes/obcndga47a765abihh91yr1u?from_source=permission_change) 的查看权限\n\u003c/card\u003e",
+        "create_time": "2026-05-26 11:43",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_f07b3c2061da9092639d99210e164ca5\u0026position=61",
+        "message_id": "om_x100b6e65238290e0b2e541d990f9c47",
+        "message_position": "61",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a0d9f8eba778d00e",
+          "id_type": "app_id",
+          "sender_type": "app",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_45917364c47fbebec05d788ba86ec87e",
+        "chat_partner": {
+          "open_id": "ou_536e17a01ea327ce357a3f6c4aa1bdd2"
+        },
+        "chat_type": "p2p",
+        "content": "\u003ccard title=\"安全登录通知\"\u003e\n**登录应用**：云文档\n**登录时间**：2026年5月26日 10:43:28 (CST)\n**参考地点**：上海(IP 地址：58.246.60.162)\n**登录设备**：Chrome / Mac\n\n如非本人操作，请[退出该登录设备](https://applink.feishu.cn/client/passport/account_center?path=device_management)，或修改登录密码，以确保账号安全。\n\u003c/card\u003e",
+        "create_time": "2026-05-26 10:43",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_45917364c47fbebec05d788ba86ec87e\u0026position=17",
+        "message_id": "om_x100b6e64c3dd4098b20ef803c6854cd",
+        "message_position": "17",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a260b07942f9d00e",
+          "id_type": "app_id",
+          "sender_type": "app",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_f07b3c2061da9092639d99210e164ca5",
+        "chat_partner": {
+          "open_id": "ou_0bc2d431e14ea5b9ca457a119de5ef83"
+        },
+        "chat_type": "p2p",
+        "content": "\u003ccard title=\"权限开通\"\u003e\n@ou_e7b0a11d65d004746b7e50a892aa4584 给你开通了妙记 [宝盈基金-20260309](https://kdfuture.feishu.cn/minutes/obcnbyo3bjk21g55c5uajv72?from_source=permission_change) 的查看权限\n\u003c/card\u003e",
+        "create_time": "2026-05-26 11:43",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_f07b3c2061da9092639d99210e164ca5\u0026position=58",
+        "message_id": "om_x100b6e65223e3490b4cb28dac1909bd",
+        "message_position": "58",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a0d9f8eba778d00e",
+          "id_type": "app_id",
+          "sender_type": "app",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_5aaab1e2cf7c77ead4524de9fa13220d",
+        "chat_name": "内部培训【内部】",
+        "chat_type": "group",
+        "content": "我发的",
+        "create_time": "2026-05-26 10:21",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_5aaab1e2cf7c77ead4524de9fa13220d\u0026position=6",
+        "message_id": "om_x100b6e6475e438a8b344d4389861ed7",
+        "message_position": "6",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_3e74d921deba9c6f47ee6732f2356791",
+          "id_type": "open_id",
+          "name": "卞嘉懿_BJY",
+          "sender_type": "user",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_faa882fd5b781c0a186a264bc40182ad",
+        "content": "@卞嘉懿_BJY 老师，文档json里又更新两个公司\n[Image: img_v3_02122_c2e7e59b-11ab-4109-96f1-b1adc2493e0g]",
+        "create_time": "2026-05-26 11:35",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_3e74d921deba9c6f47ee6732f2356791",
+            "key": "@_user_1",
+            "name": "卞嘉懿_BJY"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_faa882fd5b781c0a186a264bc40182ad\u0026position=318",
+        "message_id": "om_x100b6e65014fc0b4b328c74e278161e",
+        "message_position": "318",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_7e1d63dd2eea6beda8576edb4445d9e3",
+          "id_type": "open_id",
+          "name": "徐士强",
+          "sender_type": "user",
+          "tenant_key": "132cfbe4bf8fd75d"
+        },
+        "updated": true
+      },
+      {
+        "chat_id": "oc_faa882fd5b781c0a186a264bc40182ad",
+        "content": "https://kdfuture.feishu.cn/docx/X4ppdEQ2poV3iMx7VHRcZbHBnF7?from=from_copylink",
+        "create_time": "2026-05-26 13:00",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_faa882fd5b781c0a186a264bc40182ad\u0026position=322",
+        "message_id": "om_x100b6e66c0239d00b3427e0c49ebddb",
+        "message_position": "322",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_3e74d921deba9c6f47ee6732f2356791",
+          "id_type": "open_id",
+          "name": "卞嘉懿_BJY",
+          "sender_type": "user",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_feb6b58f357e30f45a18ec56f6923e4a",
+        "chat_partner": {
+          "open_id": "ou_1094396cf67a9f58daab40058acf1277"
+        },
+        "chat_type": "p2p",
+        "content": "https://rcn8lanbpcjn.feishu.cn/wiki/JZIGwgqi5ik44NkHXi0cyMq5nch?from=from_copylink",
+        "create_time": "2026-05-26 10:44",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_feb6b58f357e30f45a18ec56f6923e4a\u0026position=562",
+        "message_id": "om_x100b6e64c1ab9890b11036b3b0ed046",
+        "message_position": "562",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_3e74d921deba9c6f47ee6732f2356791",
+          "id_type": "open_id",
+          "name": "卞嘉懿_BJY",
+          "sender_type": "user",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_faa882fd5b781c0a186a264bc40182ad",
+        "content": "@徐士强 收到",
+        "create_time": "2026-05-26 10:52",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_7e1d63dd2eea6beda8576edb4445d9e3",
+            "key": "@_user_1",
+            "name": "徐士强"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_faa882fd5b781c0a186a264bc40182ad\u0026position=317",
+        "message_id": "om_x100b6e64e3a5aca8b1204cc5caca24c",
+        "message_position": "317",
+        "msg_type": "text",
+        "reply_to": "om_x100b6e64309a449cb142a154c17a3bc",
+        "sender": {
+          "id": "ou_3e74d921deba9c6f47ee6732f2356791",
+          "id_type": "open_id",
+          "name": "卞嘉懿_BJY",
+          "sender_type": "user",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": true
+      },
+      {
+        "chat_id": "oc_f07b3c2061da9092639d99210e164ca5",
+        "chat_partner": {
+          "open_id": "ou_0bc2d431e14ea5b9ca457a119de5ef83"
+        },
+        "chat_type": "p2p",
+        "content": "\u003ccard title=\"权限开通\"\u003e\n@ou_e7b0a11d65d004746b7e50a892aa4584 给你开通了妙记 [五矿信托曹总线下（#腾讯会议：397-877-676）](https://kdfuture.feishu.cn/minutes/obcnlk88c622c6918kas1548?from_source=permission_change) 的查看权限\n\u003c/card\u003e",
+        "create_time": "2026-05-26 11:43",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_f07b3c2061da9092639d99210e164ca5\u0026position=66",
+        "message_id": "om_x100b6e65230218acc4dfba9e8991f7b",
+        "message_position": "66",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a0d9f8eba778d00e",
+          "id_type": "app_id",
+          "sender_type": "app",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_83d08b5ef758aba609dd627c2e7f0fab",
+        "chat_partner": {
+          "open_id": "ou_2ca9fc09eb7c37a616341608232904e8"
+        },
+        "chat_type": "p2p",
+        "content": "\u003ccard title=\"权限变更（外部）\"\u003e\n@7619224947688213446 给外部用户 @7089062524326264835 开通了文档 [【解决方案】研报精读 V2.1.0](https://rcn8lanbpcjn.feishu.cn/docx/BjRldss34oL9plxnZPFc87g2nDc?from=auth_notice) 的阅读权限。\n📝 授权对象为外部用户，可分享此文档的用户均可添加外部协作者和查看协作者列表，请注意信息安全。\n\u003c/card\u003e",
+        "create_time": "2026-05-26 00:10",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_83d08b5ef758aba609dd627c2e7f0fab\u0026position=54",
+        "message_id": "om_x100b6e7308215ca8c3b769feeb634a4",
+        "message_position": "54",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a0c2cea3eef8100d",
+          "id_type": "app_id",
+          "sender_type": "app",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_5aaab1e2cf7c77ead4524de9fa13220d",
+        "chat_name": "内部培训【内部】",
+        "chat_type": "group",
+        "content": "只要路演",
+        "create_time": "2026-05-26 10:22",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_5aaab1e2cf7c77ead4524de9fa13220d\u0026position=7",
+        "message_id": "om_x100b6e64723118a4b290c6e2041ac19",
+        "message_position": "7",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_1094396cf67a9f58daab40058acf1277",
+          "id_type": "open_id",
+          "name": "瑞如",
+          "sender_type": "user",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_5aaab1e2cf7c77ead4524de9fa13220d",
+        "chat_name": "内部培训【内部】",
+        "chat_type": "group",
+        "content": "[Image: img_v3_02122_b81c84aa-0952-4678-942d-5a1ba0f05c2g]\n选一些路演的材料，基础一些的",
+        "create_time": "2026-05-26 10:08",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_5aaab1e2cf7c77ead4524de9fa13220d\u0026position=2",
+        "message_id": "om_x100b6e64470bfca0b3d3690f34875f8",
+        "message_position": "2",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_1094396cf67a9f58daab40058acf1277",
+          "id_type": "open_id",
+          "name": "瑞如",
+          "sender_type": "user",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_f07b3c2061da9092639d99210e164ca5",
+        "chat_partner": {
+          "open_id": "ou_0bc2d431e14ea5b9ca457a119de5ef83"
+        },
+        "chat_type": "p2p",
+        "content": "\u003ccard title=\"权限开通\"\u003e\n@ou_e7b0a11d65d004746b7e50a892aa4584 给你开通了妙记 [建行](https://kdfuture.feishu.cn/minutes/obcnembl5kh1128pk9g3n7d1?from_source=permission_change) 的查看权限\n\u003c/card\u003e",
+        "create_time": "2026-05-26 11:43",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_f07b3c2061da9092639d99210e164ca5\u0026position=63",
+        "message_id": "om_x100b6e652347656cc3367d0ac4af844",
+        "message_position": "63",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a0d9f8eba778d00e",
+          "id_type": "app_id",
+          "sender_type": "app",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_feb6b58f357e30f45a18ec56f6923e4a",
+        "chat_partner": {
+          "open_id": "ou_1094396cf67a9f58daab40058acf1277"
+        },
+        "chat_type": "p2p",
+        "content": "[Image: img_v3_02122_d743f72b-3848-484c-919a-22e0464f82dg]",
+        "create_time": "2026-05-26 10:32",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_feb6b58f357e30f45a18ec56f6923e4a\u0026position=560",
+        "message_id": "om_x100b6e642b8400c0b4a7fae055750ac",
+        "message_position": "560",
+        "msg_type": "image",
+        "sender": {
+          "id": "ou_1094396cf67a9f58daab40058acf1277",
+          "id_type": "open_id",
+          "name": "瑞如",
+          "sender_type": "user",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_f07b3c2061da9092639d99210e164ca5",
+        "chat_partner": {
+          "open_id": "ou_0bc2d431e14ea5b9ca457a119de5ef83"
+        },
+        "chat_type": "p2p",
+        "content": "\u003ccard title=\"权限开通\"\u003e\n@ou_e7b0a11d65d004746b7e50a892aa4584 给你开通了妙记 [长信需求](https://kdfuture.feishu.cn/minutes/obcncor1kc7te6z95ze7glpn?from_source=permission_change) 的查看权限\n\u003c/card\u003e",
+        "create_time": "2026-05-26 11:43",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_f07b3c2061da9092639d99210e164ca5\u0026position=60",
+        "message_id": "om_x100b6e6523ee0084c102579d27949c8",
+        "message_position": "60",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a0d9f8eba778d00e",
+          "id_type": "app_id",
+          "sender_type": "app",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_feb6b58f357e30f45a18ec56f6923e4a",
+        "chat_partner": {
+          "open_id": "ou_1094396cf67a9f58daab40058acf1277"
+        },
+        "chat_type": "p2p",
+        "content": "[Image: img_v3_02122_9749979d-2975-42c5-9149-50614e852a6g]\n选一些路演的材料，基础一些的",
+        "create_time": "2026-05-26 10:07",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_feb6b58f357e30f45a18ec56f6923e4a\u0026position=559",
+        "message_id": "om_x100b6e6448c11c90b118f947dbdccaf",
+        "message_position": "559",
+        "msg_type": "post",
+        "sender": {
+          "id": "ou_1094396cf67a9f58daab40058acf1277",
+          "id_type": "open_id",
+          "name": "瑞如",
+          "sender_type": "user",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_f07b3c2061da9092639d99210e164ca5",
+        "chat_partner": {
+          "open_id": "ou_0bc2d431e14ea5b9ca457a119de5ef83"
+        },
+        "chat_type": "p2p",
+        "content": "\u003ccard title=\"权限开通\"\u003e\n@ou_e7b0a11d65d004746b7e50a892aa4584 给你开通了妙记 [景林 20260312](https://kdfuture.feishu.cn/minutes/obcnd219547o64524j736gc2?from_source=permission_change) 的查看权限\n\u003c/card\u003e",
+        "create_time": "2026-05-26 11:43",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_f07b3c2061da9092639d99210e164ca5\u0026position=62",
+        "message_id": "om_x100b6e6523b7dcf4b2e976f3bcc66b6",
+        "message_position": "62",
+        "msg_type": "interactive",
+        "sender": {
+          "id": "cli_a0d9f8eba778d00e",
+          "id_type": "app_id",
+          "sender_type": "app",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": false
+      },
+      {
+        "chat_id": "oc_faa882fd5b781c0a186a264bc40182ad",
+        "content": "https://rcn8lanbpcjn.feishu.cn/docx/LnhqdudzuoMUe0xmftYcoz3HnRe?from=from_copylink",
+        "create_time": "2026-05-26 13:00",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_faa882fd5b781c0a186a264bc40182ad\u0026position=321",
+        "message_id": "om_x100b6e66c04b0cb4b29c6c6b17ee7ed",
+        "message_position": "321",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_3e74d921deba9c6f47ee6732f2356791",
+          "id_type": "open_id",
+          "name": "卞嘉懿_BJY",
+          "sender_type": "user",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": false
+      }
+    ],
+    "page_token": "",
+    "total": 88
+  }
+}

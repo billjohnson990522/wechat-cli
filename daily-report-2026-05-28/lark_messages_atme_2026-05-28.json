@@ -1,0 +1,64 @@
+{
+  "ok": true,
+  "identity": "user",
+  "data": {
+    "has_more": false,
+    "messages": [
+      {
+        "chat_id": "oc_5aaab1e2cf7c77ead4524de9fa13220d",
+        "chat_name": "内部培训【内部】",
+        "chat_type": "group",
+        "content": "\u003cp\u003e@Zoe Fly @卞嘉懿_BJY 阙波被调过来支援了，计划是帮忙先做一些培训材料\u003c/p\u003e\u003cp\u003e周五我会去公司，嘉懿线下和大家说一遍\u003c/p\u003e",
+        "create_time": "2026-05-28 10:32",
+        "deleted": false,
+        "mentions": [
+          {
+            "id": "ou_f619d9068f2f8954b81c1d7c93f221ca",
+            "key": "@_user_1",
+            "name": "Zoe Fly"
+          },
+          {
+            "id": "ou_3e74d921deba9c6f47ee6732f2356791",
+            "key": "@_user_2",
+            "name": "卞嘉懿_BJY"
+          }
+        ],
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_5aaab1e2cf7c77ead4524de9fa13220d\u0026position=23",
+        "message_id": "om_x100b6e4eda7050b4b4ced5bb42ca3df",
+        "message_position": "23",
+        "msg_type": "text",
+        "reply_to": "om_x100b6e625bfb18e4b2083c14e0c9eea",
+        "sender": {
+          "id": "ou_1094396cf67a9f58daab40058acf1277",
+          "id_type": "open_id",
+          "name": "瑞如",
+          "sender_type": "user",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": true
+      },
+      {
+        "chat_id": "oc_305d7f5c6074757b1c539ac1b02913e0",
+        "chat_name": "售前支持-材料【内部】",
+        "chat_type": "group",
+        "content": "\u003cp\u003e我们将在 版本 V1.3.0 路演H5 中更新以下内容：\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003cp\u003e优化项（2项）：\u003c/p\u003e\u003cp\u003e1-skill 出现了两次，需要【删除】技术介绍中的【skills介绍】；\u003c/p\u003e\u003cp\u003e2-点击“产品功能”跳转到标品的【问答界面】。\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003cp\u003e新增项（5项）：\u003c/p\u003e\u003cp\u003e1-在【通用解决方案】-【场景化Skill】案例底部增加【前往技能广场】按钮，点击跳转到【技能\u0026工具广场】的技能广场TAB；\u003c/p\u003e\u003cp\u003e2-新增 解决方案【直播审核】；\u003c/p\u003e\u003cp\u003e3-新增 解决方案【法律对比】；\u003c/p\u003e\u003cp\u003e4-新增 解决方案【简历筛选】；\u003c/p\u003e\u003cp\u003e5-新增 解决方案【投行募集说明书刷报】；\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003cp\u003e@_all 大家看看还有咩有要补充的\u003c/p\u003e",
+        "create_time": "2026-05-28 15:29",
+        "deleted": false,
+        "message_app_link": "https://applink.feishu.cn/client/chat/open?openChatId=oc_305d7f5c6074757b1c539ac1b02913e0\u0026position=415",
+        "message_id": "om_x100b6e4aa50698e4b374e8abf1f3fea",
+        "message_position": "415",
+        "msg_type": "text",
+        "sender": {
+          "id": "ou_f619d9068f2f8954b81c1d7c93f221ca",
+          "id_type": "open_id",
+          "name": "Zoe Fly",
+          "sender_type": "user",
+          "tenant_key": "1bbecc6c1f0dd75e"
+        },
+        "updated": true
+      }
+    ],
+    "page_token": "",
+    "total": 2
+  }
+}

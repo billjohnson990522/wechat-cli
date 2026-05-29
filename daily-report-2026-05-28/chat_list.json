@@ -1,0 +1,15 @@
+Usage:
+  lark-cli im +chat-list [flags]
+
+Flags:
+      --as string             identity type: user | bot
+      --dry-run               print request without executing
+      --exclude-muted         (user identity only) drop chats the current user has muted (do-not-disturb); bot identity returns all chats unfiltered
+      --format string         output format: json (default) | pretty | table | ndjson | csv (default "json")
+  -h, --help                  help for +chat-list
+  -q, --jq string             jq expression to filter JSON output
+      --page-size int         page size (1-100) (default 20)
+      --page-token string     pagination token for next page
+      --sort-type string      sort order (ByCreateTimeAsc|ByActiveTimeDesc) (default "ByCreateTimeAsc")
+      --user-id-type string   ID type for owner_id in response (open_id|union_id|user_id) (default "open_id")
+
